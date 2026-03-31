@@ -1,5 +1,12 @@
 {
-  "admin": { "password": "121297", "expiry": "12/31/2026", "status": "active" },
-  "user89": { "password": "6162", "expiry": "03/25/2026", "status": "active" },
-  "user90": { "password": "6162", "expiry": "03/26/2026", "status": "active" }
+  "admin": { 
+    "password": "121297", 
+    "expiry": "2026-12-31T23:59:59", 
+    "status": "active" 
+  },
+  "user89": { 
+    "password": "6162", 
+    "expiry": "2026-04-01T23:59:59", 
+    "status": "active" 
+  }
 }
